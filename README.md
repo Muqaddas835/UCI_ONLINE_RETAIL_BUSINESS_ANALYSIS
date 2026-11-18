@@ -231,11 +231,10 @@ online-retail-business-analysis/
 
 ## 👩‍💻 About Me
 
-**[Your Name]**: Aspiring Data Analyst with a focus on e-commerce and retail analytics.
+Muqaddas Babar: Aspiring Data Analyst with a focus on e-commerce and retail analytics.
 
-- 🔗 LinkedIn: [your-linkedin-url]
-- 🐙 GitHub: [your-github-url]
-- 📧 Email: [your-email]
+- 🔗 LinkedIn: https://www.linkedin.com/in/muqaddas-babar-249723373/
+- 📧 Email: muqaddasbabar503@gmail.com
 
 > 💼 Open to freelance data analytics projects: sales analysis, customer insights and reporting for online stores.
 
